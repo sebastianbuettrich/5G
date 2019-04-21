@@ -28,11 +28,11 @@ We add
 MALKEMPER Erich P.*, TSCHEULIN Thomas*, VANBERGEN Adam J.*, VIAN Alain*,
 BALIAN Estelle, GOUDESEUNE Lise (2018). The impacts of artificial Electromagnetic
 Radiation on wildlife (flora and fauna). Current knowledge overview: a background
-document to the web conference. A report of the EKLIPSE project.
+document to the web conference. A report of the **EKLIPSE** project.
 www.eklipse-mechanism.eu/documents/15803/0/EMR-WebConferenceReport_FINAL_27042018.pdf/b5117399-2231-473e-b25c-ee24e6b78342
 **An analysis of 97 studies by the EU-funded review body EKLIPSE concluded that radiation is a potential risk to insect and bird orientation and plant health.**
 
-Volkow N, Tomasi D, Wang G-J, et al. Effect of cell phone radiofrequency signal exposure on brain glucose metabolism. JAMA. 2011;305(8):808-813.
+Volkow N, Tomasi D, Wang G-J, et al. Effect of cell phone radiofrequency signal exposure on brain glucose metabolism. **JAMA**. 2011;305(8):808-813.
 
 *JAMA (journal), Journal of the American Medical Association, an international peer-reviewed general medical journal*
 https://jamanetwork.com/journals/jama/fullarticle/645813
@@ -49,11 +49,10 @@ https://ec.europa.eu/health/archive/ph_determinants/environment/emf/brochure_en.
 **Not scientific work in itself, but a balanced Meta/Review - citing projects REFLEX, CEMFEC, Ramp2001, Guard, Interphone, Perform-A, EMF-Net**
 
 
-REFLEX - Risk evaluation of potential environmental hazards from low energy electromagnetic field exposure using sensitive in vitro methods (Reflex)
+**REFLEX** - Risk evaluation of potential environmental hazards from low energy electromagnetic field exposure using sensitive in vitro methods (Reflex)
 https://cordis.europa.eu/project/rcn/51989/factsheet/en
 final report: http://www.itis.ethz.ch/assets/Downloads/Papers-Reports/Reports/REFLEXFinal-Report171104.pdf
 about: https://www.emf-portal.org/en/glossary/3142
-
 ADLKOFER F. (2006) RISK EVALUATION OF POTENTIAL ENVIRONMENTAL HAZARDS FROM LOW ENERGY ELECTROMAGNETIC FIELD EXPOSURE USING SENSITIVE IN VITRO METHODS. In: Ayrapetyan S.N., Markov M.S. (eds) BIOELECTROMAGNETICS Current Concepts. NATO Security Through Science Series. Springer, Dordrecht 
 
 **[Citing EU Commision report:] The Reflex project studied how low-energy EMF interacts directly with biological materials in the laboratory (in vitro). The researchers showed that exposing cells to ELF and RF electromagnetic fields could cause DNA to break apart and thus
@@ -95,6 +94,17 @@ https://ehtrust.org/wp-content/uploads/ITU-Report-EMF-Limits-on-5G.pdf
 
 **Informative study on exposure limits and impact on deployment - key thesis: "exposure limits below the ICNIRP or IEEE guidelines will further restrict upcoming 5G network deployment"**
 
+ITU Workshop on 5G, EMF & Health, Warsaw, December 5 2017
+https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20171205/Pages/Programme.aspx
+herein:
+Impact of EMF Limits on 5G network roll-out
+Christer Törnevik, Senior Expert, EMF and Health, Ericsson Research
+https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20171205/Documents/S3_Christer_Tornevik.pdf
+Jack Rowley, GSMA: Implications of RF-EMF exposure limits for 5G: lessons from 3G and 4G deployments
+Haim Mazar, ATDI: ATDI coverage and EMF contours, around 5G base stations
+**Highly useful conference papers, industry views, etc**
+
+
 5G Cellular User Equipment: From Theory to Practical Hardware Design
 July 2017IEEE Access 5:13992-14010
 DOI: 10.1109/ACCESS.2017.2727550
@@ -112,12 +122,12 @@ https://www.researchgate.net/profile/Rifat_Hasan6/post/What_is_maximum_EIRP_of_5
 
 Power-frequency EMF Exposure Standards applicable in Europe and elsewhere
 http://www.emfs.info/wp-content/uploads/2015/07/standards-table-August-2016.pdf
-
 **Quality unclear. Does not seem up-to-date or well founded. States to be about 50/60 Hz only.**
 
-https://money.cnn.com/2018/02/05/technology/business/5g-internet-of-skills/index.html
 
+https://money.cnn.com/2018/02/05/technology/business/5g-internet-of-skills/index.html
 **Mischa Dohler. Mostly a commercial feature. Arguing for need for 5G.**
+
 
 Physicians for Safe Technology: Conversion Chart, World Exposure Limits, Exposures EMR/EMF
 Conversion Chart, World Exposure Limits, Exposures EMR/EMF
@@ -126,12 +136,4 @@ https://mdsafetech.org/conversion-and-exposure-limits-emr-emf/
 **Useful list and compilation of some sources**
 
 
-ITU Workshop on 5G, EMF & Health, Warsaw, December 5 2017
-https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20171205/Pages/Programme.aspx
-herein:
-Impact of EMF Limits on 5G network roll-out
-Christer Törnevik, Senior Expert, EMF and Health, Ericsson Research
-https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20171205/Documents/S3_Christer_Tornevik.pdf
-Jack Rowley, GSMA: Implications of RF-EMF exposure limits for 5G: lessons from 3G and 4G deployments
-Haim Mazar, ATDI: ATDI coverage and EMF contours, around 5G base stations
-**Highly useful conference papers, industry views, etc**
+
