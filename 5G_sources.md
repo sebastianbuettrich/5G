@@ -64,8 +64,14 @@ July 2017IEEE Access 5:13992-14010
 DOI: 10.1109/ACCESS.2017.2727550
 Yiming HuoYiming HuoXiaodai DongXiaodai DongWei XuWei Xu
 https://ieeexplore.ieee.org/document/7983335/citations#citations
-**Very useful insight on 5G hardware and system design**
+**Very useful insight on 5G hardware and system design - early version contains claim of Max. EIRP = 78 dBm (?)**
 
+
+Millimeter-Wave Communications: Physical Channel Models, Design Considerations, Antenna Constructions and Link-Budget
+Ibrahim A. Hemadeh, Member, IEEE, Katla Satyanarayana, Student Member, IEEE,
+Mohammed El-Hajjar, Senior Member, IEEE, and Lajos Hanzo, Fellow, IEEE
+https://www.researchgate.net/profile/Rifat_Hasan6/post/What_is_maximum_EIRP_of_5G_Base_Station_Antenna/attachment/5cb193bfcfe4a7df4ae844f3/AS%3A747132038443009%401555141567116/download/CST_mmWave_Ibrahim.pdf
+**Useful paper on link budgets, link calculations etc**
 
 Power-frequency EMF Exposure Standards applicable in Europe and elsewhere
 http://www.emfs.info/wp-content/uploads/2015/07/standards-table-August-2016.pdf
