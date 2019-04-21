@@ -11,19 +11,18 @@ non-thermal, non-ionizing, below ICNIRP-limits effects.
 Aware of the difficulty of this,
 we group the sources into 3 categories:
 
-1. scientific credibility relevant	- peer-reviewed journals, organizations of somewhat recognized weight, ...
+1. Scientifically credible	- peer-reviewed journals, organizations of somewhat recognized weight, ...
 
-2. scientific credibility unclear
+2. Scientific credibility unclear
 
-3. scientific credibility low/zero
+3. Scientific credibility low/zero
 
 We add 
 
 4. a list of various links, reports, commentaries, keywords 
 
 
-# 1.
-
+# 1. Scientifically credible
 
 MALKEMPER Erich P.*, TSCHEULIN Thomas*, VANBERGEN Adam J.*, VIAN Alain*,
 BALIAN Estelle, GOUDESEUNE Lise (2018). The impacts of artificial Electromagnetic
@@ -32,16 +31,18 @@ document to the web conference. A report of the **EKLIPSE** project.
 www.eklipse-mechanism.eu/documents/15803/0/EMR-WebConferenceReport_FINAL_27042018.pdf/b5117399-2231-473e-b25c-ee24e6b78342
 **An analysis of 97 studies by the EU-funded review body EKLIPSE concluded that radiation is a potential risk to insect and bird orientation and plant health.**
 
-Volkow N, Tomasi D, Wang G-J, et al. Effect of cell phone radiofrequency signal exposure on brain glucose metabolism. **JAMA**. 2011;305(8):808-813.
 
+Volkow N, Tomasi D, Wang G-J, et al. Effect of cell phone radiofrequency signal exposure on brain glucose metabolism. **JAMA**. 2011;305(8):808-813.
 *JAMA (journal), Journal of the American Medical Association, an international peer-reviewed general medical journal*
 https://jamanetwork.com/journals/jama/fullarticle/645813
 **The study refutes the longstanding claim by both the Federal Communications Commission and the cell phone industry that there are no biological effects from non-thermal levels of cell phone radiation.**
+
 
 Hardell, L., & Hardell, L. (2019). Comments on the US National Toxicology Program technical reports on toxicology and carcinogenesis study in rats exposed to whole-body radiofrequency radiation at 900 MHz and in mice exposed to whole-body radiofrequency radiation at 1,900 MHz. International Journal of Oncology, 54, 111-127. https://doi.org/10.3892/ijo.2018.4606
 https://www.spandidos-publications.com/10.3892/ijo.2018.4606
 *peer-reviewed journal*
 **conclude that there is clear evidence that RF radiation is a human carcinogen, causing glioma and vestibular schwannoma (acoustic neuroma). There is some evidence of an increased risk of developing thyroid cancer, and clear evidence that RF radiation is a multi‑site carcinogen. Based on the Preamble to the IARC Monographs, RF radiation should be classified as carcinogenic to humans, Group 1.**
+
 
 EU Commission - Health and electromagnetic fields
 *EU-funded research into the impact of electromagnetic fields and mobile telephones on health*
@@ -55,6 +56,7 @@ final report: http://www.itis.ethz.ch/assets/Downloads/Papers-Reports/Reports/RE
 about: https://www.emf-portal.org/en/glossary/3142
 ADLKOFER F. (2006) RISK EVALUATION OF POTENTIAL ENVIRONMENTAL HAZARDS FROM LOW ENERGY ELECTROMAGNETIC FIELD EXPOSURE USING SENSITIVE IN VITRO METHODS. In: Ayrapetyan S.N., Markov M.S. (eds) BIOELECTROMAGNETICS Current Concepts. NATO Security Through Science Series. Springer, Dordrecht 
 
+
 **[Citing EU Commision report:] The Reflex project studied how low-energy EMF interacts directly with biological materials in the laboratory (in vitro). The researchers showed that exposing cells to ELF and RF electromagnetic fields could cause DNA to break apart and thus
 aff ect how cells develop. The key to this project lies in the standardised equipment that the partners, from all over Europe, used to do their experiments. This meant that several partners could independently confirm the experimental results. While these results do not prove that there are hazards from EMFs, they do indicate promising lines of investigation for further work.**
 **Abstract: REFLEX, a project funded by the EU under the 5th Framework Programme (QLK4-CT-1999-01574), was carried out by 12 research groups from 7 European countries1 from the year 2000 to 2004. The goal of the project was to search for biological effects of electromagnetic fields (EMF) in in vitro cell systems which may play a role in the pathogenesis of chronic diseases such as cancer and neurodegenerative disorders. The data obtained showed that extremely low frequency EMF (ELF-EMF) had genotoxic effects on primary cell cultures of human fibroblasts and on other cell lines. ELF-EMF generated DNA strand breaks at a significant level at a flux density as low as 35 μT. There was a strong positive correlation between both the intensity and duration of exposure and the increase in single and double DNA strand breaks and micronuclei frequencies. Chromosomal aberrations were also observed after ELF-EMF exposure of human fibroblasts. Surprisingly, genotoxic effects were only observed when cells were exposed intermittently to ELF-EMF, but not when exposed continuously. Responsiveness of fibroblasts to ELF-EMF increased with the age of the donor and in the presence of specific genetic repair defects. The effect also differed among the other types of cells examined. In particular, lymphocytes and myelocytes from adult donors were not responsive. With respect to radiofrequency electromagnetic fields (RF-EMF), data showed that RF-EMF produced genotoxic effects in fibroblasts, HL-60 cells and granulosa cells of rats, but not in human lymphocytes.**
@@ -63,8 +65,6 @@ aff ect how cells develop. The key to this project lies in the standardised equi
 Meta information: EMF-NET 
 https://www.emf.ethz.ch
 https://www.emf.ethz.ch/en/promotion/projects/list-of-funded-research-projects/#refno-14
-
-
 EMF-NET: EFFECTS OF THE EXPOSURE TO ELECTROMAGNETIC FIELDS: FROM SCIENCE TO PUBLIC HEALTH AND SAFER WORKPLACE
 Deliverable D17: Report on health effects of RF with recommendations for non-ionising radiation protection and research needs
 **On the basis of the epidemiological studies reviewed, because of the inconsistencies of results and
@@ -75,13 +75,51 @@ parotid gland tumours appear to suggest a possible increased risk related to lon
 of phones. It is unclear, however, whether the observed associations are real, reflecting a causal
 association, or artefactual, reflecting differential reporting between cases and controls.**
 
+
+European Commission
+Scientific Committee on Health, Environmental and Emerging Risks (**SCHEER**)
+Statement on emerging health and environmental issues (2018)
+SCHEER (Scientific Committee on Health, Environmental and Emerging Risks)
+Statement on emerging health and environmental issues (2018), 20 December 2018.
+**Not scientific research in istelf, this is an opinion statement by an xepert group, naming 5G as one of the major health threats**
+https://ec.europa.eu/health/sites/health/files/scientific_committees/scheer/docs/scheer_s_002.pdf?fbclid=IwAR0eUtw8Umk0BwC4Jc0Rvr3suie_lbNoy_3sqA5ZkNO7RTT3GGvqPQQbR8w
+
+Cited therein:
+
+
+Russell C.L. (2018). 5G wireless telecommunications expansion: Public health and environmental implications. Environmental Research 165, 484-95. DOI: 10.1016/j.envres.2018.01.016.
+https://www.sciencedirect.com/science/article/pii/S0013935118300161
+**[From abstract:] the expansion of broadband with shorter wavelength radiofrequency radiation highlights the concern that health and safety issues remain unknown. Controversy continues with regards to harm from current 2G, 3G and 4G wireless technologies. 5G technologies are far less studied for human or environmental effects.
+It is argued that the addition of this added high frequency 5G radiation to an already complex mix of lower frequencies, will contribute to a negative public health outcome both from both physical and mental health perspectives.
+Radiofrequency radiation (RF) is increasingly being recognized as a new form of environmental pollution. Like other common toxic exposures, the effects of radiofrequency electromagnetic radiation (RF EMR) will be problematic if not impossible to sort out epidemiologically as there no longer remains an unexposed control group. This is especially important considering these effects are likely magnified by synergistic toxic exposures and other common health risk behaviors. Effects can also be non-linear. Because this is the first generation to have cradle-to-grave lifespan exposure to this level of man-made microwave (RF EMR) radiofrequencies, it will be years or decades before the true health consequences are known. Precaution in the roll out of this new technology is strongly indicated.**
+
+Di Ciaula A. (2018). Towards 5G communication systems: Are there health
+implications? International Journal of Hygiene and Environmental Health 221 (3),
+367-75. Doi: 10.1016/j.ijheh.2018.01.011.
+**Highlights:
+\- RF-EMF exposure is rising and health effects of are still under investigation.
+\- Both oncologic and non-cancerous chronic effects have been suggested.
+\- 5G networks could have health effects and will use MMW, still scarcely explored.
+\- Adequate knowledge of RF-EMF biological effects is also needed in clinical practice.
+\- Underrating the problem could lead to a further rise in noncommunicable diseases.**
+
+
+
+
+
 Is there a Biological Basis for Therapeutic Applications of Millimetre Waves and THz Waves?
 Mattsson, MO., Zeni, O. & Simkó, M. J Infrared Milli Terahz Waves (2018) 39: 863. https://doi.org/10.1007/s10762-018-0483-5
 https://link.springer.com/article/10.1007/s10762-018-0483-5
 **The aim of the present study is to investigate if published experimental studies (in vivo and in vitro) provide evidence for “non-thermal” biological effects of MMW and THz. Such effects would occur in absence of tissue heating and associated damage and are the ones that can be exploited for therapeutic medical use. The investigated studies provide some evidence for both MMW and THz that can influence biological systems in a manner that is not obviously driven by tissue heating. However, the number of relevant studies is very limited which severely limits the drawing of any far-reaching conclusions.**
 
+
 Zhadobov, M., Chahat, N., Sauleau, R., Le Quement, C., & Le Drean, Y. (2011). Millimeter-wave interactions with the human body: State of knowledge and recent advances. International Journal of Microwave and Wireless Technologies, 3(2), 237-247. doi:10.1017/S1759078711000122
 
+# 2. Scientific credibility unclear 
+
+**Moskowitz**
+https://www.saferemr.com/2017/08/5g-wireless-technology-millimeter-wave.html
+**Quality doubtful, but verifiable sources.**
 
 # 4. Various links, reports, commentaries, keywords 
 
