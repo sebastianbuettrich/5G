@@ -33,11 +33,14 @@ www.eklipse-mechanism.eu/documents/15803/0/EMR-WebConferenceReport_FINAL_2704201
 **An analysis of 97 studies by the EU-funded review body EKLIPSE concluded that radiation is a potential risk to insect and bird orientation and plant health.**
 
 Volkow N, Tomasi D, Wang G-J, et al. Effect of cell phone radiofrequency signal exposure on brain glucose metabolism. JAMA. 2011;305(8):808-813.
+
+*JAMA (journal), Journal of the American Medical Association, an international peer-reviewed general medical journal*
+https://jamanetwork.com/journals/jama/fullarticle/645813
 **The study refutes the longstanding claim by both the Federal Communications Commission and the cell phone industry that there are no biological effects from non-thermal levels of cell phone radiation.**
 
 Hardell, L., & Hardell, L. (2019). Comments on the US National Toxicology Program technical reports on toxicology and carcinogenesis study in rats exposed to whole-body radiofrequency radiation at 900 MHz and in mice exposed to whole-body radiofrequency radiation at 1,900 MHz. International Journal of Oncology, 54, 111-127. https://doi.org/10.3892/ijo.2018.4606
 https://www.spandidos-publications.com/10.3892/ijo.2018.4606
-
+*peer-reviewed journal*
 **conclude that there is clear evidence that RF radiation is a human carcinogen, causing glioma and vestibular schwannoma (acoustic neuroma). There is some evidence of an increased risk of developing thyroid cancer, and clear evidence that RF radiation is a multi‑site carcinogen. Based on the Preamble to the IARC Monographs, RF radiation should be classified as carcinogenic to humans, Group 1.**
 
 
