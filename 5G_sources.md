@@ -76,7 +76,12 @@ parotid gland tumours appear to suggest a possible increased risk related to lon
 of phones. It is unclear, however, whether the observed associations are real, reflecting a causal
 association, or artefactual, reflecting differential reporting between cases and controls.**
 
+Is there a Biological Basis for Therapeutic Applications of Millimetre Waves and THz Waves?
+Mattsson, MO., Zeni, O. & Simkó, M. J Infrared Milli Terahz Waves (2018) 39: 863. https://doi.org/10.1007/s10762-018-0483-5
+https://link.springer.com/article/10.1007/s10762-018-0483-5
+**The aim of the present study is to investigate if published experimental studies (in vivo and in vitro) provide evidence for “non-thermal” biological effects of MMW and THz. Such effects would occur in absence of tissue heating and associated damage and are the ones that can be exploited for therapeutic medical use. The investigated studies provide some evidence for both MMW and THz that can influence biological systems in a manner that is not obviously driven by tissue heating. However, the number of relevant studies is very limited which severely limits the drawing of any far-reaching conclusions.**
 
+Zhadobov, M., Chahat, N., Sauleau, R., Le Quement, C., & Le Drean, Y. (2011). Millimeter-wave interactions with the human body: State of knowledge and recent advances. International Journal of Microwave and Wireless Technologies, 3(2), 237-247. doi:10.1017/S1759078711000122
 
 
 # 4. Various links, reports, commentaries, keywords 
