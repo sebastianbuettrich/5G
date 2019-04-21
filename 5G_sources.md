@@ -74,3 +74,14 @@ Conversion Chart, World Exposure Limits, Exposures EMR/EMF
 https://mdsafetech.org/conversion-and-exposure-limits-emr-emf/
 
 **Useful list and compilation of some sources**
+
+
+ITU Workshop on 5G, EMF & Health, Warsaw, December 5 2017
+https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20171205/Pages/Programme.aspx
+herein:
+Impact of EMF Limits on 5G network roll-out
+Christer Törnevik, Senior Expert, EMF and Health, Ericsson Research
+https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20171205/Documents/S3_Christer_Tornevik.pdf
+Jack Rowley, GSMA: Implications of RF-EMF exposure limits for 5G: lessons from 3G and 4G deployments
+Haim Mazar, ATDI: ATDI coverage and EMF contours, around 5G base stations
+**Highly useful conference papers, industry views, etc**
