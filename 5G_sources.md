@@ -6,12 +6,12 @@ impact of EMF
 in microwave freuency range (here interpreted broadly as 300 MHz (1 m) and 300 GHz (1 mm)) 
 on biological systems (living organisms),
 with focus on - but not limited to -
-non-thermal, below ICNIRP-limits effects.
+non-thermal, non-ionizing, below ICNIRP-limits effects.
 
 Aware of the difficulty of this,
 we group the sources into 3 categories:
 
-1. scientific credibility relevant	
+1. scientific credibility relevant	- peer-reviewed journals, organizations of somewhat recognized weight, ...
 
 2. scientific credibility unclear
 
@@ -20,6 +20,30 @@ we group the sources into 3 categories:
 We add 
 
 4. a list of various links, reports, commentaries, keywords 
+
+
+# 1.
+
+
+MALKEMPER Erich P.*, TSCHEULIN Thomas*, VANBERGEN Adam J.*, VIAN Alain*,
+BALIAN Estelle, GOUDESEUNE Lise (2018). The impacts of artificial Electromagnetic
+Radiation on wildlife (flora and fauna). Current knowledge overview: a background
+document to the web conference. A report of the EKLIPSE project.
+www.eklipse-mechanism.eu/documents/15803/0/EMR-WebConferenceReport_FINAL_27042018.pdf/b5117399-2231-473e-b25c-ee24e6b78342
+**An analysis of 97 studies by the EU-funded review body EKLIPSE concluded that radiation is a potential risk to insect and bird orientation and plant health.**
+
+Volkow N, Tomasi D, Wang G-J, et al. Effect of cell phone radiofrequency signal exposure on brain glucose metabolism. JAMA. 2011;305(8):808-813.
+**The study refutes the longstanding claim by both the Federal Communications Commission and the cell phone industry that there are no biological effects from non-thermal levels of cell phone radiation.**
+
+Hardell, L., & Hardell, L. (2019). Comments on the US National Toxicology Program technical reports on toxicology and carcinogenesis study in rats exposed to whole-body radiofrequency radiation at 900 MHz and in mice exposed to whole-body radiofrequency radiation at 1,900 MHz. International Journal of Oncology, 54, 111-127. https://doi.org/10.3892/ijo.2018.4606
+https://www.spandidos-publications.com/10.3892/ijo.2018.4606
+
+**conclude that there is clear evidence that RF radiation is a human carcinogen, causing glioma and vestibular schwannoma (acoustic neuroma). There is some evidence of an increased risk of developing thyroid cancer, and clear evidence that RF radiation is a multi‑site carcinogen. Based on the Preamble to the IARC Monographs, RF radiation should be classified as carcinogenic to humans, Group 1.**
+
+
+
+
+
 
 # 4. Various links, reports, commentaries, keywords 
 
