@@ -59,6 +59,13 @@ https://ehtrust.org/wp-content/uploads/ITU-Report-EMF-Limits-on-5G.pdf
 
 **Informative study on exposure limits and impact on deployment - key thesis: "exposure limits below the ICNIRP or IEEE guidelines will further restrict upcoming 5G network deployment"**
 
+5G Cellular User Equipment: From Theory to Practical Hardware Design
+July 2017IEEE Access 5:13992-14010
+DOI: 10.1109/ACCESS.2017.2727550
+Yiming HuoYiming HuoXiaodai DongXiaodai DongWei XuWei Xu
+https://ieeexplore.ieee.org/document/7983335/citations#citations
+**Very useful insight on 5G hardware and system design**
+
 
 Power-frequency EMF Exposure Standards applicable in Europe and elsewhere
 http://www.emfs.info/wp-content/uploads/2015/07/standards-table-August-2016.pdf
