@@ -43,6 +43,21 @@ https://www.spandidos-publications.com/10.3892/ijo.2018.4606
 *peer-reviewed journal*
 **conclude that there is clear evidence that RF radiation is a human carcinogen, causing glioma and vestibular schwannoma (acoustic neuroma). There is some evidence of an increased risk of developing thyroid cancer, and clear evidence that RF radiation is a multi‑site carcinogen. Based on the Preamble to the IARC Monographs, RF radiation should be classified as carcinogenic to humans, Group 1.**
 
+EU Commission - Health and electromagnetic fields
+*EU-funded research into the impact of electromagnetic fields and mobile telephones on health*
+https://ec.europa.eu/health/archive/ph_determinants/environment/emf/brochure_en.pdf
+**Not scientific work in itself, but a balanced Meta/Review - citing projects REFLEX, CEMFEC, Ramp2001, Guard, Interphone, Perform-A, EMF-Net**
+
+
+REFLEX - Risk evaluation of potential environmental hazards from low energy electromagnetic field exposure using sensitive in vitro methods (Reflex)
+https://cordis.europa.eu/project/rcn/51989/factsheet/en
+
+ADLKOFER F. (2006) RISK EVALUATION OF POTENTIAL ENVIRONMENTAL HAZARDS FROM LOW ENERGY ELECTROMAGNETIC FIELD EXPOSURE USING SENSITIVE IN VITRO METHODS. In: Ayrapetyan S.N., Markov M.S. (eds) BIOELECTROMAGNETICS Current Concepts. NATO Security Through Science Series. Springer, Dordrecht 
+
+**[Citing EU Commision report:] The Reflex project studied how low-energy EMF interacts directly with biological materials in the laboratory (in vitro). The researchers showed that exposing cells to ELF and RF electromagnetic fields could cause DNA to break apart and thus
+aff ect how cells develop. The key to this project lies in the standardised equipment that the partners, from all over Europe, used to do their experiments. This meant that several partners could independently confirm the experimental results. While these results do not prove that there are hazards from EMFs, they do indicate promising lines of investigation for further work.**
+**Abstract: REFLEX, a project funded by the EU under the 5th Framework Programme (QLK4-CT-1999-01574), was carried out by 12 research groups from 7 European countries1 from the year 2000 to 2004. The goal of the project was to search for biological effects of electromagnetic fields (EMF) in in vitro cell systems which may play a role in the pathogenesis of chronic diseases such as cancer and neurodegenerative disorders. The data obtained showed that extremely low frequency EMF (ELF-EMF) had genotoxic effects on primary cell cultures of human fibroblasts and on other cell lines. ELF-EMF generated DNA strand breaks at a significant level at a flux density as low as 35 μT. There was a strong positive correlation between both the intensity and duration of exposure and the increase in single and double DNA strand breaks and micronuclei frequencies. Chromosomal aberrations were also observed after ELF-EMF exposure of human fibroblasts. Surprisingly, genotoxic effects were only observed when cells were exposed intermittently to ELF-EMF, but not when exposed continuously. Responsiveness of fibroblasts to ELF-EMF increased with the age of the donor and in the presence of specific genetic repair defects. The effect also differed among the other types of cells examined. In particular, lymphocytes and myelocytes from adult donors were not responsive. With respect to radiofrequency electromagnetic fields (RF-EMF), data showed that RF-EMF produced genotoxic effects in fibroblasts, HL-60 cells and granulosa cells of rats, but not in human lymphocytes.**
+
 
 
 
@@ -65,6 +80,7 @@ DOI: 10.1109/ACCESS.2017.2727550
 Yiming HuoYiming HuoXiaodai DongXiaodai DongWei XuWei Xu
 https://ieeexplore.ieee.org/document/7983335/citations#citations
 **Very useful insight on 5G hardware and system design - early version contains claim of Max. EIRP = 78 dBm (?)**
+dicussed here: https://www.researchgate.net/post/What_is_maximum_EIRP_of_5G_Base_Station_Antenna
 
 
 Millimeter-Wave Communications: Physical Channel Models, Design Considerations, Antenna Constructions and Link-Budget
