@@ -104,7 +104,14 @@ implications? International Journal of Hygiene and Environmental Health 221 (3),
 \- Underrating the problem could lead to a further rise in noncommunicable diseases.**
 
 
+Metainformation:
+EMF-Portal - https://www.emf-portal.org/en
+**The internet information platform EMF-Portal of the _RWTH Aachen University_ summarizes systematically scientific research data on the effects of electromagnetic fields (EMF). All information is made available in both English and German. The core of the EMF-Portal is an extensive literature database with an inventory of 28,083 publications and 6,328 summaries of individual scientific studies on the effects of electromagnetic fields.**
 
+
+[german] The dgital reader **iDisorder im Digi-Tal. Gesammelte Publikationen zu den Folgen der digitalen Transformation des Kapitalismus**, clearly opinioned, has a valuable chapter on sources:
+p. 66 ff > Mobilfunk: Neue Studienergebnisse bestätigen Risiken der nicht-ionisierenden Strahlung, umwelt · medizin · gesellschaft 3/2016, Peter Hensinger / Isabel Wilke
+ http://mobilfunkstuttgart.de/wp-content/uploads/2018/11/Hensinger_Teuchert_Noodt_Reader_iDisorder_2018.pdf
 
 
 Is there a Biological Basis for Therapeutic Applications of Millimetre Waves and THz Waves?
