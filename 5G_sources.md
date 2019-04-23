@@ -127,6 +127,13 @@ Millimeter waves or extremely high frequency electromagnetic fields in the envir
 Soghomonyan, D., Trchounian, K. & Trchounian, A. Appl Microbiol Biotechnol (2016) 100: 4761. https://doi.org/10.1007/s00253-016-7538-0
 **Millimeter waves (MMW) or electromagnetic fields of extremely high frequencies at low intensity is a new environmental factor, the level of which is increased as technology advance. It is of interest that bacteria and other cells might communicate with each other by electromagnetic field of sub-extremely high frequency range. These MMW affected Escherichia coli and many other bacteria, mainly depressing their growth and changing properties and activity. These effects were non-thermal and depended on different factors. The significant cellular targets for MMW effects could be water, cell plasma membrane, and genome. The model for the MMW interaction with bacteria is suggested; a role of the membrane-associated proton FOF1-ATPase, key enzyme of bioenergetic relevance, is proposed. The consequences of MMW interaction with bacteria are the changes in their sensitivity to different biologically active chemicals, including antibiotics. Novel data on MMW effects on bacteria and their sensitivity to different antibiotics are presented and discussed; the combined action of MMW and antibiotics resulted with more strong effects. These effects are of significance for understanding changed metabolic pathways and distinguish role of bacteria in environment; they might be leading to antibiotic resistance in bacteria. The effects might have applications in the development of technique, therapeutic practices, and food protection technology.**
 
+**Lancet**
+Planetary electromagnetic pollution: it is time to assess its impact
+Priyanka Bandara, David O Carpenter 
+Published:December, 2018 DOI:https://doi.org/10.1016/S2542-5196(18)30221-3
+**A recent evaluation of 2266 studies (including in-vitro and in-vivo studies in human, animal, and plant experimental systems and population studies) found that most studies (n=1546, 68∙2%) have demonstrated significant biological or health effects associated with exposure to anthropogenic electromagnetic fields. We have published our preliminary data on radiofrequency electromagnetic radiation, which shows that 89% (216 of 242) of experimental studies that investigated oxidative stress endpoints showed significant effects.
+This weight of scientific evidence refutes the prominent claim that the deployment of wireless technologies poses no health risks at the currently permitted non-thermal radiofrequency exposure levels.**
+
 # 2. Scientific credibility unclear 
 
 **Moskowitz**
