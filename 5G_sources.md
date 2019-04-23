@@ -122,6 +122,11 @@ https://link.springer.com/article/10.1007/s10762-018-0483-5
 
 Zhadobov, M., Chahat, N., Sauleau, R., Le Quement, C., & Le Drean, Y. (2011). Millimeter-wave interactions with the human body: State of knowledge and recent advances. International Journal of Microwave and Wireless Technologies, 3(2), 237-247. doi:10.1017/S1759078711000122
 
+
+Millimeter waves or extremely high frequency electromagnetic fields in the environment: what are their effects on bacteria?
+Soghomonyan, D., Trchounian, K. & Trchounian, A. Appl Microbiol Biotechnol (2016) 100: 4761. https://doi.org/10.1007/s00253-016-7538-0
+**Millimeter waves (MMW) or electromagnetic fields of extremely high frequencies at low intensity is a new environmental factor, the level of which is increased as technology advance. It is of interest that bacteria and other cells might communicate with each other by electromagnetic field of sub-extremely high frequency range. These MMW affected Escherichia coli and many other bacteria, mainly depressing their growth and changing properties and activity. These effects were non-thermal and depended on different factors. The significant cellular targets for MMW effects could be water, cell plasma membrane, and genome. The model for the MMW interaction with bacteria is suggested; a role of the membrane-associated proton FOF1-ATPase, key enzyme of bioenergetic relevance, is proposed. The consequences of MMW interaction with bacteria are the changes in their sensitivity to different biologically active chemicals, including antibiotics. Novel data on MMW effects on bacteria and their sensitivity to different antibiotics are presented and discussed; the combined action of MMW and antibiotics resulted with more strong effects. These effects are of significance for understanding changed metabolic pathways and distinguish role of bacteria in environment; they might be leading to antibiotic resistance in bacteria. The effects might have applications in the development of technique, therapeutic practices, and food protection technology.**
+
 # 2. Scientific credibility unclear 
 
 **Moskowitz**
