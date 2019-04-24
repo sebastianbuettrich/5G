@@ -184,5 +184,9 @@ https://mdsafetech.org/conversion-and-exposure-limits-emr-emf/
 
 **Useful list and compilation of some sources**
 
+**Technical details of Ericsson AIR 5241 (28 GHz), EMF test, compliance**
+EMF Test Report: Ericsson AIR 5121 - fccid.io
+https://fccid.io/TA8AKRD901059-1/RF-Exposure-Info/RF-Exposure-information-3845517.pdf
+
 
 
