@@ -188,5 +188,7 @@ https://mdsafetech.org/conversion-and-exposure-limits-emr-emf/
 EMF Test Report: Ericsson AIR 5121 - fccid.io
 https://fccid.io/TA8AKRD901059-1/RF-Exposure-Info/RF-Exposure-information-3845517.pdf
 
+**ESA 5G satellites**
+http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Satellite_for_5G
 
 
