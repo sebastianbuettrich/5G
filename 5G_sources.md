@@ -21,6 +21,12 @@ We add
 
 # 1. Meta sites, overviews collections
 
+**The Swedish Radiation Safety Authority's (SSM) Scientific Council on Electromagnetic Fields monitors current research on potential health risks with a correlation to exposure to electromagnetic fields, and provides the Authority with advice on assessing possible health risks.**
+2018:09 Recent Research on EMF and Health Risk, Twelfth report from SSM's Scientific Council on Electromagnetic Fields, 2017
+https://www.stralsakerhetsmyndigheten.se/publikationer/rapporter/stralskydd/2018/201809/
+https://www.stralsakerhetsmyndigheten.se/contentassets/f34de8333acd4ac2b22a9b072d9b33f9/201809-recent-research-on-emf-and-health-risk
+**The present annual report is the twelfth in this series and covers studies published from October 2015 up to and including March 2017. The report covers different areas of EMF (static, low frequency, intermediate, and radio frequency fields) and different types of studies such as biological, human and epidemiological studies.
+No new health risks have been identified. Whether mobile phone use causes brain tumours or not was mainly addressed using time trends studies in the last two years. The results were not entirely consistent but mainly point towards a lack of association. Some cell and animal studies indicate that EMF exposure may cause oxidative stress even at low exposure levels. It is unclear what relevance this may have when it comes to direct health effects in humans. A striking result was that some studies showed a stronger association between memory functions and radio wave exposure than other usage variables.**
 
 EU Commission - Health and electromagnetic fields
 *EU-funded research into the impact of electromagnetic fields and mobile telephones on health*
