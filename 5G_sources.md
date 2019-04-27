@@ -1,14 +1,12 @@
-The following is an attempt at collecting
+The following is an attempt at collecting scientifically relevant studies/reports/papers on
 
-scientifically relevant studies/reports/papers on
+impact of EMF 
 
-impact of EMF  in microwave freuency range (here interpreted broadly as 300 MHz (1 m) and 300 GHz (1 mm)) 
+in a microwave frequency range (here interpreted broadly as 300 MHz (1 m) and 300 GHz (1 mm)) 
 on biological systems (living organisms), with focus on - but not limited to -
 non-thermal, non-ionizing, below ICNIRP-limits effects.
 
-Aware of the difficulty of this,
-we group the sources into 3 categories:
-
+We group sources into 3 categories:
 
 1. Meta sites, overviews collections
 
@@ -16,8 +14,7 @@ we group the sources into 3 categories:
 
 We add 
 
-3. a list of various links, reports, commentaries, keywords 
-
+3. a list of various links, reports, commentaries, tech details
 
 # 1. Meta sites, overviews collections
 
