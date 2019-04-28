@@ -179,6 +179,9 @@ Jack Rowley, GSMA: Implications of RF-EMF exposure limits for 5G: lessons from 3
 Haim Mazar, ATDI: ATDI coverage and EMF contours, around 5G base stations
 **Highly useful conference papers, industry views, etc**
 
+**Scenarios for 5G mobile and wireless communications: the vision of the METIS project**
+A Osseiran, F Boccardi, V Braun, K Kusume, P Marsch… - IEEE Communications Magazine, 2014
+http://99.51.244.77:823/YourFreeLibrary/5G/1.pdf
 
 5G Cellular User Equipment: From Theory to Practical Hardware Design
 July 2017IEEE Access 5:13992-14010
@@ -207,12 +210,13 @@ https://money.cnn.com/2018/02/05/technology/business/5g-internet-of-skills/index
 Physicians for Safe Technology: Conversion Chart, World Exposure Limits, Exposures EMR/EMF
 Conversion Chart, World Exposure Limits, Exposures EMR/EMF
 https://mdsafetech.org/conversion-and-exposure-limits-emr-emf/
-
 **Useful list and compilation of some sources**
+
 
 **Technical details of Ericsson AIR 5241 (28 GHz), EMF test, compliance**
 EMF Test Report: Ericsson AIR 5121 - fccid.io
 https://fccid.io/TA8AKRD901059-1/RF-Exposure-Info/RF-Exposure-information-3845517.pdf
+
 
 **ESA 5G satellites**
 http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Satellite_for_5G
