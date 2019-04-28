@@ -148,15 +148,30 @@ Now a peer review panel —11 pathologists and toxicologists from academia and i
 https://ntp.niehs.nih.gov/ntp/about_ntp/trpanel/2018/march/roster_20180328_508.pdf
 https://ntp.niehs.nih.gov/ntp/about_ntp/trpanel/2018/march/actions20180328_508.pdf
 
-Analyses of temporal and spatial patterns of glioblastoma multiforme and other brain cancer subtypes in relation to mobile phones using synthetic counterfactuals
-Frank de Vocht
+**Analyses of temporal and spatial patterns of glioblastoma multiforme and other brain cancer subtypes in relation to mobile phones using synthetic counterfactuals** Frank de Vocht
 https://doi.org/10.1016/j.envres.2018.10.011
 **Highlights
 \- English 1985-2014 brain cancer subtype rates were compared to counterfactual trends.
 \- Excess GBM increases were found in the frontal and temporal lobes, and cerebellum.
 \- Mobile phone use was unlikely to have been an important putative factor.
-\- No evidence of an effect of mobile phone use on acoustic neuroma and meningioma.
-**
+\- No evidence of an effect of mobile phone use on acoustic neuroma and meningioma.**
+
+**Effect of 900-, 1800-, and 2100-MHz radiofrequency radiation on DNA and oxidative stress in brain**
+ Mehmet Esref Alkis, Hakki Murat Bilgin, Veysi Akpolat, Suleyman Dasdag, Korkut Yegin, Mehmet Cihan Yavas & Mehmet Zulkuf Akdag (2019) Effect of 900-, 1800-, and 2100-MHz radiofrequency radiation on DNA and oxidative stress in brain, Electromagnetic Biology and Medicine, 38:1, 32-47, DOI: 10.1080/15368378.2019.1567526 
+**Results of the study showed that DNA damage and oxidative stress indicators were found higher in the RFR exposure groups than in the sham-control group. In conclusion, 900-, 1800-, and 2100-MHz RFR emitted from mobile phones may cause oxidative damage, induce increase in lipid peroxidation, and increase oxidative DNA damage formation in the frontal lobe of the rat brain tissues. Furthermore, 2100-MHz RFR may cause formation of DNA single-strand breaks.**
+
+
+**Microwave Irradiation Affects Gene Expression in Plants**
+ A. Vian, D. Roux, S. Girard, P. Bonnet, F. Paladian, E. Davies & G. Ledoigt (2006) Microwave Irradiation Affects Gene Expression in Plants, Plant Signaling & Behavior, 1:2, 67-69, DOI: 10.4161/psb.1.2.2434 
+
+
+**Review: Weak radiofrequency radiation exposure from mobile phone radiation on plants**
+ Malka N. Halgamuge (2017) Review: Weak radiofrequency radiation exposure from mobile phone radiation on plants, Electromagnetic Biology and Medicine, 36:2, 213-235, DOI: 10.1080/15368378.2016.1220389
+
+
+**Plants Respond to GSM-Like Radiations**
+Alain Vian, Catherine Faure, Sébastien Girard, Eric Davies, Francis Hallé, Pierre Bonnet, Gérard Ledoigt & Françoise Paladian (2007) Plants Respond to GSM-Like Radiations, Plant Signaling & Behavior, 2:6, 522-524, DOI: 10.4161/psb.2.6.4657 
+
 
 # 3. Various links, reports, commentaries, keywords 
 
