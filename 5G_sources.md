@@ -138,6 +138,16 @@ https://link.springer.com/article/10.1007/s10762-018-0483-5
 Joachim Schüz, Marianne Steding-Jessen, Søren Hansen, Sven-Eric Stangerup, Per Cayé-Thomasen, Aslak Harbo Poulsen, Jørgen H. Olsen, Christoffer Johansen, Long-Term Mobile Phone Use and the Risk of Vestibular Schwannoma: A Danish Nationwide Cohort Study, American Journal of Epidemiology, Volume 174, Issue 4, 15 August 2011, Pages 416–422, https://doi.org/10.1093/aje/kwr112
 **Vestibular schwannomas grow in the region within the brain where most of the energy by radiofrequency electromagnetic fields from using mobile phones is absorbed. The authors used 2 Danish nationwide cohort studies, one a study of all adult Danes subscribing for a mobile phone in 1995 or earlier and one on sociodemographic factors and cancer risk, and followed subjects included in both cohorts for occurrence of vestibular schwannoma up to 2006 inclusively. In this study including 2.9 million subjects, a long-term mobile phone subscription of ≥11 years was not related to an increased vestibular schwannoma risk in men (relative risk estimate = 0.87, 95% confidence interval: 0.52, 1.46), and no vestibular schwannoma cases among long-term subscribers occurred in women versus 1.6 expected. Vestibular schwannomas did not occur more often on the right side of the head, although the majority of Danes reported holding their mobile phone to the right ear. Vestibular schwannomas in long-term male subscribers were not of larger size than expected. Overall, no evidence was found that mobile phone use is related to the risk of vestibular schwannoma. Because of the usually slow growth of vestibular schwannoma and possible diagnostic delay, further surveillance is indicated.**
 
+**NTP study** - 
+Interim report: https://www.biorxiv.org/content/biorxiv/early/2018/02/01/055699.full.pdf
+all reports and comments here: https://ntp.niehs.nih.gov/events/past/index.html?type=Peer+Review+Panels+-+Technical+Reports
+this article is commentary:
+https://microwavenews.com/news-center/ntp-peer-review-sees-tumor-risk
+**Two years ago, with the results in hand, the NTP rushed to warn the public about the dangers of cell phones. It issued an interim report pointing to higher rates of tumors in the hearts and brains of male rats exposed to two different kinds of phone radiation. Then early this February with the release of the formal draft reports, the NTP made a U-turn, saying that using a cell phone “is not a high-risk situation.”
+Now a peer review panel —11 pathologists and toxicologists from academia and industry and one statistician— has concluded that there is “clear evidence of carcinogenic activity” in those male rats. The panel, which met* March 26-28 in Research Triangle Park, NC, determined that both GSM and CDMA signals had led to the development of a rare tumor in the hearts of rats, malignant schwannoma. The NTP, on the other hand, had concluded there was only “some evidence” for this association.**
+https://ntp.niehs.nih.gov/ntp/about_ntp/trpanel/2018/march/roster_20180328_508.pdf
+https://ntp.niehs.nih.gov/ntp/about_ntp/trpanel/2018/march/actions20180328_508.pdf
+
 # 3. Various links, reports, commentaries, keywords 
 
 
