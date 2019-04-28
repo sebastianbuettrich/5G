@@ -148,6 +148,16 @@ Now a peer review panel —11 pathologists and toxicologists from academia and i
 https://ntp.niehs.nih.gov/ntp/about_ntp/trpanel/2018/march/roster_20180328_508.pdf
 https://ntp.niehs.nih.gov/ntp/about_ntp/trpanel/2018/march/actions20180328_508.pdf
 
+Analyses of temporal and spatial patterns of glioblastoma multiforme and other brain cancer subtypes in relation to mobile phones using synthetic counterfactuals
+Frank de Vocht
+https://doi.org/10.1016/j.envres.2018.10.011
+**Highlights
+\- English 1985-2014 brain cancer subtype rates were compared to counterfactual trends.
+\- Excess GBM increases were found in the frontal and temporal lobes, and cerebellum.
+\- Mobile phone use was unlikely to have been an important putative factor.
+\- No evidence of an effect of mobile phone use on acoustic neuroma and meningioma.
+**
+
 # 3. Various links, reports, commentaries, keywords 
 
 
