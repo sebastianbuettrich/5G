@@ -12,9 +12,11 @@ We group sources into 3 categories:
 
 2. Scientifically credible	papers - peer-reviewed journals, organizations of somewhat recognized weight, ...
 
-We add 
-
 3. a list of various links, reports, commentaries, tech details
+
+and, divided into its own category now, as different in scope -
+
+4. research on plants
 
 # 1. Meta sites, overviews collections
 
@@ -161,27 +163,6 @@ https://doi.org/10.1016/j.envres.2018.10.011
 **Results of the study showed that DNA damage and oxidative stress indicators were found higher in the RFR exposure groups than in the sham-control group. In conclusion, 900-, 1800-, and 2100-MHz RFR emitted from mobile phones may cause oxidative damage, induce increase in lipid peroxidation, and increase oxidative DNA damage formation in the frontal lobe of the rat brain tissues. Furthermore, 2100-MHz RFR may cause formation of DNA single-strand breaks.**
 
 
-**Microwave Irradiation Affects Gene Expression in Plants**
- A. Vian, D. Roux, S. Girard, P. Bonnet, F. Paladian, E. Davies & G. Ledoigt (2006) Microwave Irradiation Affects Gene Expression in Plants, Plant Signaling & Behavior, 1:2, 67-69, DOI: 10.4161/psb.1.2.2434 
-
-
-**Review: Weak radiofrequency radiation exposure from mobile phone radiation on plants**
- Malka N. Halgamuge (2017) Review: Weak radiofrequency radiation exposure from mobile phone radiation on plants, Electromagnetic Biology and Medicine, 36:2, 213-235, DOI: 10.1080/15368378.2016.1220389
-
-
-**Plants Respond to GSM-Like Radiations**
-Alain Vian, Catherine Faure, Sébastien Girard, Eric Davies, Francis Hallé, Pierre Bonnet, Gérard Ledoigt & Françoise Paladian (2007) Plants Respond to GSM-Like Radiations, Plant Signaling & Behavior, 2:6, 522-524, DOI: 10.4161/psb.2.6.4657 
-
-
-*Review Article*
-**Plant Responses to High Frequency Electromagnetic Fields**
-Alain Vian,1 Eric Davies,2 Michel Gendraud,3 and Pierre Bonnet4,5
-BioMed Research International
-Volume 2016, Article ID 1830262, 13 pages
-http://dx.doi.org/10.1155/2016/1830262
-**High frequency nonionizing electromagnetic fields (HF-EMF) that are increasingly present in the environment constitute a genuine environmental stimulus able to evoke specific responses in plants that share many similarities with those observed after a stressful treatment. Plants constitute an outstanding model to study such interactions since their architecture (high surface area to volume ratio) optimizes their interaction with the environment. In the present review, after identifying the main exposure devices (transverse and gigahertz electromagnetic cells, wave guide, and mode stirred reverberating chamber) and general physics laws that govern EMF interactions with plants, we illustrate some of the observed responses after exposure to HF-EMF at the cellular, molecular, and whole plant scale. Indeed, numerous metabolic activities (reactive oxygen species metabolism, α- and β-amylase, Krebs cycle, pentose phosphate pathway, chlorophyll content, terpene emission, etc.) are modified, gene expression altered (calmodulin, calcium-dependent protein kinase, and proteinase inhibitor), and growth reduced (stem elongation and dry weight) after low power (i.e., nonthermal) HF-EMF exposure. These changes occur not only in the tissues directly exposed but also systemically in distant tissues. While the long-term impact of these metabolic changes remains largely unknown, we propose to consider nonionizing HF-EMF radiation as a noninjurious, genuine environmental factor that readily evokes changes in plant metabolism.**
-
-
 # 3. Various links, reports, commentaries, keywords 
 
 
@@ -244,5 +225,35 @@ https://fccid.io/TA8AKRD901059-1/RF-Exposure-Info/RF-Exposure-information-384551
 
 **ESA 5G satellites**
 http://www.esa.int/Our_Activities/Telecommunications_Integrated_Applications/Satellite_for_5G
+
+
+# 4. Plants & EMF
+
+**Microwave Irradiation Affects Gene Expression in Plants**
+ A. Vian, D. Roux, S. Girard, P. Bonnet, F. Paladian, E. Davies & G. Ledoigt (2006) Microwave Irradiation Affects Gene Expression in Plants, Plant Signaling & Behavior, 1:2, 67-69, DOI: 10.4161/psb.1.2.2434 
+
+
+**Review: Weak radiofrequency radiation exposure from mobile phone radiation on plants**
+ Malka N. Halgamuge (2017) Review: Weak radiofrequency radiation exposure from mobile phone radiation on plants, Electromagnetic Biology and Medicine, 36:2, 213-235, DOI: 10.1080/15368378.2016.1220389
+
+
+**Plants Respond to GSM-Like Radiations**
+Alain Vian, Catherine Faure, Sébastien Girard, Eric Davies, Francis Hallé, Pierre Bonnet, Gérard Ledoigt & Françoise Paladian (2007) Plants Respond to GSM-Like Radiations, Plant Signaling & Behavior, 2:6, 522-524, DOI: 10.4161/psb.2.6.4657 
+
+
+*Review Article*
+**Plant Responses to High Frequency Electromagnetic Fields**
+Alain Vian,1 Eric Davies,2 Michel Gendraud,3 and Pierre Bonnet4,5
+BioMed Research International
+Volume 2016, Article ID 1830262, 13 pages
+http://dx.doi.org/10.1155/2016/1830262
+**High frequency nonionizing electromagnetic fields (HF-EMF) that are increasingly present in the environment constitute a genuine environmental stimulus able to evoke specific responses in plants that share many similarities with those observed after a stressful treatment. Plants constitute an outstanding model to study such interactions since their architecture (high surface area to volume ratio) optimizes their interaction with the environment. In the present review, after identifying the main exposure devices (transverse and gigahertz electromagnetic cells, wave guide, and mode stirred reverberating chamber) and general physics laws that govern EMF interactions with plants, we illustrate some of the observed responses after exposure to HF-EMF at the cellular, molecular, and whole plant scale. Indeed, numerous metabolic activities (reactive oxygen species metabolism, α- and β-amylase, Krebs cycle, pentose phosphate pathway, chlorophyll content, terpene emission, etc.) are modified, gene expression altered (calmodulin, calcium-dependent protein kinase, and proteinase inhibitor), and growth reduced (stem elongation and dry weight) after low power (i.e., nonthermal) HF-EMF exposure. These changes occur not only in the tissues directly exposed but also systemically in distant tissues. While the long-term impact of these metabolic changes remains largely unknown, we propose to consider nonionizing HF-EMF radiation as a noninjurious, genuine environmental factor that readily evokes changes in plant metabolism.**
+
+
+
+Bioelectromagnetics. 1996;17(2):154-61.
+Effects of 60 Hz electromagnetic fields on early growth in three plant species and a replication of previous results.
+Davies MS1.
+**In an attempt to replicate the findings of Smith et al., seeds of Raphanus sativus L. (radish), Sinapsis alba L. (mustard), and Hordeum vulgare L. (barley) were grown for between 9 and 21 days in continuous electromagnetic fields (EMFs) at "ion-cyclotron resonance" conditions for stimulation of Ca(2+) (B(H) = 78.3 mu T, B(HAC) = 40 mu T peak-peak at 60 Hz, B(V) = 0). On harvesting, radish showed results similar to those of Smith et al. Dry stem weight and plant height were both significantly greater (Mann-Whitney tests, Ps < 0.05) in EMF-exposed plants than in control plants in each EMF experiment. Wet root weight was significantly greater in EMF-exposed plants in two out of three experiments, as were dry leaf weight, dry whole weight, and stem diameter. Dry root weight, wet leaf weight, and wet whole weight were significantly greater in EMF-exposed plants in one of three experiments. All significant differences indicated an increase in weight or size in the EMF-exposed plants. In each of the sham experiments, no differences between exposed and control plants were evident. Mustard plants failed to respond to the EMFs in any of the plant parameters measured. In one experiment, barley similarly failed to respond; but in another showed significantly greater wet root weight and significantly smaller stem diameter and dry seed weight at the end of the experiment in exposed plants compared to control plants. Although these results give no clue about the underlying bioelectromagnetic mechanism, they demonstrate that, at least for one EMF-sensitive biosystem, results can be independently replicated in another laboratory. Such replication is crucial in establishing the validity of bioelectromagnetic science.**
 
 
