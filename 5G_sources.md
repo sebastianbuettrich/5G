@@ -173,6 +173,15 @@ https://doi.org/10.1016/j.envres.2018.10.011
 Alain Vian, Catherine Faure, Sébastien Girard, Eric Davies, Francis Hallé, Pierre Bonnet, Gérard Ledoigt & Françoise Paladian (2007) Plants Respond to GSM-Like Radiations, Plant Signaling & Behavior, 2:6, 522-524, DOI: 10.4161/psb.2.6.4657 
 
 
+*Review Article*
+**Plant Responses to High Frequency Electromagnetic Fields**
+Alain Vian,1 Eric Davies,2 Michel Gendraud,3 and Pierre Bonnet4,5
+BioMed Research International
+Volume 2016, Article ID 1830262, 13 pages
+http://dx.doi.org/10.1155/2016/1830262
+**High frequency nonionizing electromagnetic fields (HF-EMF) that are increasingly present in the environment constitute a genuine environmental stimulus able to evoke specific responses in plants that share many similarities with those observed after a stressful treatment. Plants constitute an outstanding model to study such interactions since their architecture (high surface area to volume ratio) optimizes their interaction with the environment. In the present review, after identifying the main exposure devices (transverse and gigahertz electromagnetic cells, wave guide, and mode stirred reverberating chamber) and general physics laws that govern EMF interactions with plants, we illustrate some of the observed responses after exposure to HF-EMF at the cellular, molecular, and whole plant scale. Indeed, numerous metabolic activities (reactive oxygen species metabolism, α- and β-amylase, Krebs cycle, pentose phosphate pathway, chlorophyll content, terpene emission, etc.) are modified, gene expression altered (calmodulin, calcium-dependent protein kinase, and proteinase inhibitor), and growth reduced (stem elongation and dry weight) after low power (i.e., nonthermal) HF-EMF exposure. These changes occur not only in the tissues directly exposed but also systemically in distant tissues. While the long-term impact of these metabolic changes remains largely unknown, we propose to consider nonionizing HF-EMF radiation as a noninjurious, genuine environmental factor that readily evokes changes in plant metabolism.**
+
+
 # 3. Various links, reports, commentaries, keywords 
 
 
