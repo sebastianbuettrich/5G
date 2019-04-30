@@ -162,6 +162,13 @@ https://doi.org/10.1016/j.envres.2018.10.011
  Mehmet Esref Alkis, Hakki Murat Bilgin, Veysi Akpolat, Suleyman Dasdag, Korkut Yegin, Mehmet Cihan Yavas & Mehmet Zulkuf Akdag (2019) Effect of 900-, 1800-, and 2100-MHz radiofrequency radiation on DNA and oxidative stress in brain, Electromagnetic Biology and Medicine, 38:1, 32-47, DOI: 10.1080/15368378.2019.1567526 
 **Results of the study showed that DNA damage and oxidative stress indicators were found higher in the RFR exposure groups than in the sham-control group. In conclusion, 900-, 1800-, and 2100-MHz RFR emitted from mobile phones may cause oxidative damage, induce increase in lipid peroxidation, and increase oxidative DNA damage formation in the frontal lobe of the rat brain tissues. Furthermore, 2100-MHz RFR may cause formation of DNA single-strand breaks.**
 
+**Human Skin as Arrays of Helical Antennas in the Millimeter and Submillimeter Wave Range**
+March 2008Physical Review Letters 100(12):128102
+DOI: 10.1103/PhysRevLett.100.128102
+Yuri D Feldman Alexander Puzenko  Paul Ben Ishai Aharon J Agranat
+**Frequency specific behaviour of human skin in the sub-THz, ~100GHz region**
+
+
 
 # 3. Various links, reports, commentaries, keywords 
 
