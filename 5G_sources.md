@@ -169,6 +169,14 @@ Yuri D Feldman Alexander Puzenko  Paul Ben Ishai Aharon J Agranat
 **Frequency specific behaviour of human skin in the sub-THz, ~100GHz region**
 
 
+Scattering Characteristics of the Human Body in 67-GHz Band
+Ngochao TRAN, Tetsuro IMAI, Koshiro KITAO, Yukihiko OKUMURA, Takehiro NAKAMURA, Hiroshi TOKUDA, Takao MIYAKE, Robin WANG, Zhu WEN, Hajime KITANO, Roger NICHOLS
+DOI https://doi.org/10.1587/transcom.2017EBP3341 
+**The fifth generation (5G) system using millimeter waves is considered for application to high traffic areas with a dense population of pedestrians. In such an environment, the effects of shadowing and scattering of radio waves by human bodies (HBs) on propagation channels cannot be ignored. In this paper, we clarify based on measurement the characteristics of waves scattered by the HB for typical non-line-of-sight scenarios in street canyon environments. In these scenarios, there are street intersections with pedestrians, and the angles that are formed by the transmission point, HB, and reception point are nearly equal to 90 degrees. We use a wide-band channel sounder for the 67-GHz band with a 1-GHz bandwidth and horn antennas in the measurements. The distance parameter between antennas and the HB is changed in the measurements. Moreover, the direction of the HB is changed from 0 to 360 degrees. The evaluation results show that the radar cross section (RCS) of the HB fluctuates randomly over the range of approximately 20dB. Moreover, the distribution of the RCS of the HB is a Gaussian distribution with a mean value of -9.4dBsm and the standard deviation of 4.2dBsm.**
+
+
+
+
 
 # 3. Various links, reports, commentaries, keywords 
 
