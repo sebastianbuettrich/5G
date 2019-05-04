@@ -178,6 +178,21 @@ DOI https://doi.org/10.1587/transcom.2017EBP3341
 
 
 
+**Modeling DNA response to terahertz radiation**
+Eric S. Swanson
+Phys. Rev. E 83, 040901(R) – Published 4 April 2011
+**Collective response of DNA to terahertz electric fields is studied in a simple pair bond model. We confirm, with some caveats, a previous observation of destabilizing DNA breather modes and explore the parameter dependence of these modes. It is shown that breather modes are eliminated under reasonable physical conditions and that thermal effects are significant.**
+
+
+Int J Radiat Biol. 2011 Apr;87(4):409-15. doi: 10.3109/09553002.2011.538130. Epub 2011 Feb 28.
+**DNA is a fractal antenna in electromagnetic fields.**
+Blank M1, Goodman R.
+**[Review paper]
+EMF interactions with DNA are similar over a range of non-ionising frequencies, i.e., extremely low frequency (ELF) and radio frequency (RF) ranges. There are similar effects in the ionising range, but the reactions are more complex.
+The wide frequency range of interaction with EMF is the functional characteristic of a fractal antenna, and DNA appears to possess the two structural characteristics of fractal antennas, electronic conduction and self symmetry. These properties contribute to greater reactivity of DNA with EMF in the environment, and the DNA damage could account for increases in cancer epidemiology, as well as variations in the rate of chemical evolution in early geologic history.**
+
+
+
 # 3. Various links, reports, commentaries, keywords 
 
 
