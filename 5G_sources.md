@@ -236,6 +236,14 @@ Jack Rowley, GSMA: Implications of RF-EMF exposure limits for 5G: lessons from 3
 Haim Mazar, ATDI: ATDI coverage and EMF contours, around 5G base stations
 **Highly useful conference papers, industry views, etc**
 
+
+ITU 2018
+Session on modern policies, guidelines, regulations and assessments of human exposure to RF-EMF, therein:
+The draft ICNIRP radiofrequency guidelines - Recent Research Activities and the
+Update of EMF Standards in China - Preparing for 5G: Research and Policy Efforts Relating to RF Exposure 
+https://www.itu.int/en/ITU-D/Study-Groups/2018-2021/Pages/meetings/session-Q7-2-oct18.aspx
+**Highly useful conference papers, industry views, etc**
+
 **Scenarios for 5G mobile and wireless communications: the vision of the METIS project**
 A Osseiran, F Boccardi, V Braun, K Kusume, P Marsch… - IEEE Communications Magazine, 2014
 http://99.51.244.77:823/YourFreeLibrary/5G/1.pdf
