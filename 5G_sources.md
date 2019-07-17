@@ -166,6 +166,7 @@ https://doi.org/10.1016/j.envres.2018.10.011
 March 2008Physical Review Letters 100(12):128102
 DOI: 10.1103/PhysRevLett.100.128102
 Yuri D Feldman Alexander Puzenko  Paul Ben Ishai Aharon J Agranat
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.128102
 **Frequency specific behaviour of human skin in the sub-THz, ~100GHz region**
 
 
