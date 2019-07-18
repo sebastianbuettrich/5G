@@ -169,6 +169,19 @@ Yuri D Feldman Alexander Puzenko  Paul Ben Ishai Aharon J Agranat
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.128102
 **Frequency specific behaviour of human skin in the sub-THz, ~100GHz region**
 
+**Millimeter-wave interactions with the human body: state of knowledge and recent advances**
+Part of: MRF top 5 downloaded articles of 2018 
+Maxim Zhadobov (a1), Nacer Chahat (a1), Ronan Sauleau (a1), Catherine Le Quement (a2) ... 
+https://www.cambridge.org/core/journals/international-journal-of-microwave-and-wireless-technologies/article/millimeterwave-interactions-with-the-human-body-state-of-knowledge-and-recent-advances/44B43B3E7CA335E5E1CD407BE2A1EA29
+**The biocompatibility of millimeter-wave devices and systems is an important issue due to the wide number of emerging body-centric wireless applications at millimeter waves. This review article provides the state of knowledge in this field and mainly focuses on recent results and advances related to the different aspects of millimeter-wave interactions with the human body. Electromagnetic, thermal, and biological aspects are considered and analyzed for exposures in the 30-100 GHz range with a particular emphasis on the 60-GHz band. Recently introduced dosimetric techniques and specific instrumentation for bioelectromagnetic laboratory studies are also presented. Finally, future trends are discussed.**
+
+
+**The human body and millimeter-wave wireless communication systems: Interactions and implications**
+Publisher: IEEE
+Ting Wu ; Theodore S. Rappaport ; Christopher M. Collins
+https://ieeexplore.ieee.org/abstract/document/7248688
+**With increasing interest in millimeter-wave wireless communications, investigations on interactions between the human body and millimeter-wave devices are becoming important. This paper gives examples of today's regulatory requirements, and provides an example for a 60 GHz transceiver. Also, the propagation characteristics of millimeter-waves in the presence of the human body are studied, and four models representing different body parts are considered to evaluate thermal effects of millimeter-wave radiation on the body. Simulation results show that about 34% to 42% of the incident power is reflected at the skin surface at 60 GHz. This paper shows that power density is not suitable to determine exposure compliance when millimeter wave devices are used very close to the body. A temperature-based technique for the evaluation of safety compliance is proposed in this paper.**
+
 
 Scattering Characteristics of the Human Body in 67-GHz Band
 Ngochao TRAN, Tetsuro IMAI, Koshiro KITAO, Yukihiko OKUMURA, Takehiro NAKAMURA, Hiroshi TOKUDA, Takao MIYAKE, Robin WANG, Zhu WEN, Hajime KITANO, Roger NICHOLS
