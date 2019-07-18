@@ -183,6 +183,11 @@ https://ieeexplore.ieee.org/abstract/document/7248688
 **With increasing interest in millimeter-wave wireless communications, investigations on interactions between the human body and millimeter-wave devices are becoming important. This paper gives examples of today's regulatory requirements, and provides an example for a 60 GHz transceiver. Also, the propagation characteristics of millimeter-waves in the presence of the human body are studied, and four models representing different body parts are considered to evaluate thermal effects of millimeter-wave radiation on the body. Simulation results show that about 34% to 42% of the incident power is reflected at the skin surface at 60 GHz. This paper shows that power density is not suitable to determine exposure compliance when millimeter wave devices are used very close to the body. A temperature-based technique for the evaluation of safety compliance is proposed in this paper.**
 
 
+**Online tool: Calculation of the Dielectric Properties of Body Tissues in the frequency range 10 Hz - 100 GHz**
+http://niremf.ifac.cnr.it/tissprop/
+D.Andreuccetti, R.Fossi and C.Petrucci: "An Internet resource for the calculation of the dielectric properties of body tissues in the frequency range 10 Hz - 100 GHz". IFAC-CNR, Florence (Italy), 1997. **Based on data published by C.Gabriel et al. in 1996. [Online]. ** Available: http://niremf.ifac.cnr.it/tissprop/
+
+
 Scattering Characteristics of the Human Body in 67-GHz Band
 Ngochao TRAN, Tetsuro IMAI, Koshiro KITAO, Yukihiko OKUMURA, Takehiro NAKAMURA, Hiroshi TOKUDA, Takao MIYAKE, Robin WANG, Zhu WEN, Hajime KITANO, Roger NICHOLS
 DOI https://doi.org/10.1587/transcom.2017EBP3341 
